@@ -24,6 +24,8 @@
 		<sonar.host.url>http://172.31.42.78:9000/projects</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Anjan97@143</sonar.password> 
+		<sonar.login>squ_f10e014e727f755602e034a2da19380144a8f9ef</sonar.login>
+		
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
